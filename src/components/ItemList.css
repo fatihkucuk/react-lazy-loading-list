@@ -1,0 +1,6 @@
+.ItemList {
+  width: calc(100vw - 100px);
+  height: 600px;
+  margin: 40px auto;
+  overflow: auto;
+}
