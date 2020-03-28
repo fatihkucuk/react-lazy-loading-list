@@ -5,11 +5,11 @@
   width: 200px;
   height: 300px;
   background-color: #f6f6f6;
-  border: 1px solid;
+  border: 1px solid #ccc;
+  box-shadow: 3px 4px 4px #ccc;
 }
 
 .Item h1 {
-  color: red;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
